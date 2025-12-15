@@ -55,7 +55,9 @@
             "pages": [
               "api-reference/introduction",
               "api-reference/overview",
-              "api-reference/quickstart"
+              "api-reference/quickstart",
+              "api-reference/features",
+              "api-reference/faqs" 
             ]
           },
           {
